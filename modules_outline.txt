@@ -1,0 +1,20 @@
+Topics:
+
+- Installation/IDE 
+- Hello World
+- Data types
+- Variables
+- Modules
+- Conditionals
+- Operators
+- Loops
+- Functions
+- Lists
+- Dictionaries
+- Exceptions
+- Classes/Objects
+- CGI
+- API usage
+- XML Handling
+- Threading
+- GUI Programming
