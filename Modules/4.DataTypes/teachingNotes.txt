@@ -1,0 +1,8 @@
+- Variables are nothing but reserved memory locations to store values
+
+- When you assign a variable to a data type, the intepreter allocates memory and decides what can be stored in the reserved memory
+
+- python variables are NOT explicitly declared to reserve memory space; the declaration happens automatically when a value is assigned to the variable
+
+
+

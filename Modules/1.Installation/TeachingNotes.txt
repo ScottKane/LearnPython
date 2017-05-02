@@ -10,5 +10,5 @@ Process:
 3) Install IDE of choice
 4) Create a github account
 5) Install GIT and GITbash
-6) Clone LearnPython git repo
+6) Clone LearnPython git repo with SSH not HTTPS
 
