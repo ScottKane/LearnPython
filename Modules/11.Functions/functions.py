@@ -8,7 +8,23 @@ def myFunction():
 myFunction()
 
 
-	
+
+
+
+def myFunctionWithVars():
+    ## Declare variables
+    x = "Hello World"
+    ## Print the variable inside the function
+    print (x)
+## Call the function to make it run the print
+myFunctionWithVars()
+## If I try to use the variable "x" outside the function it won't work
+## If I left the below with no declaration of what x is no code beyond this point would run, so I will set it to something else
+x = "Some different text"
+print (x)
+
+
+
 
 
 ## Define your function and what arguments it takes
