@@ -11,7 +11,7 @@ print (my_string[0])
 print (my_string[0:5])
 
 #print the last 3 characters of my_string
-print (my_string[:3])
+print (my_string[-3:])
 
 #print the first and last letter of my_string
 print (my_string[0] + my_string[len(my_string) - 1 ])
